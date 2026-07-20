@@ -33,7 +33,7 @@ See [`TEMPLATE.md`](TEMPLATE.md).
 
 ## Schedule
 
-The archive is updated daily at **09:00 Malaysia time**, starting **2026-07-22**.
+The archive is updated daily at **09:00 Malaysia time**.
 
 ## Disclaimer
 
