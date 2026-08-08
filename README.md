@@ -30,6 +30,10 @@ The evening edition focuses on material developments since the morning edition a
 
 - Prefer original sources such as official announcements, regulators, company/research blogs, papers, and government releases.
 - Use reputable reporting when an original source is unavailable or additional context is necessary.
+- Broaden Malaysia coverage across policy, economy, business, society, technology, climate, infrastructure, and regional developments.
+- Broaden AI coverage across research, products, open-source releases, policy, safety, compute, benchmarks, and industry.
+- Aim for six to eight substantive items per section in each edition, with a hard maximum of eight; publish fewer rather than lowering the quality bar.
+- When a section contains five or more items, use at least three distinct publishers whenever credible coverage permits.
 - Every item includes a direct link and publication date.
 - Separate confirmed facts from interpretation; never invent missing details.
 - Deduplicate syndicated or repeated stories within and across editions.
